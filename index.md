@@ -9,3 +9,11 @@ Now to add some code:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### Now we want to add a checklist.
+
+- [x] Add header.
+- [x] Add funky cat.
+- [x] Add code block.
+- [x] Add a task list.
+- [ ] Do a funny dance!
